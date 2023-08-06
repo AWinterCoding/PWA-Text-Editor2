@@ -6,6 +6,10 @@
 
 This is a text editor that can store text offline and can function as a downloadable application
 
+![image](https://github.com/AWinterCoding/PWA-Text-Editor2/assets/125227009/da916ee1-7018-4ee6-8f84-a3c4c1a1dd63)
+
+Link to deployed Heroku application: https://limitless-reaches-30159-693bfe959c1b.herokuapp.com/
+
 ## Table of Contents
 
 *[Installation](#installation)
